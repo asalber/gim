@@ -1,0 +1,46 @@
+---
+title: Lógica Formal
+#author: Alfredo Sánchez Alberca
+bibliography: bibliografia.bib
+nocite: |
+  @*
+cls: apa.cls
+lang: es
+--- 
+
+## Contenidos
+
+1.  Introducción a la lógica.
+    a. Razonamiento: Observación e inferencia.
+    a. Tipos y usos de inferencias.
+    a. Orígenes de la Lógica.
+1.  Lógica Proposicional.
+    a. Validez.
+    a. Lenguaje de la Lógica Proposicional.
+    a. Semántica de la Lógica Proposicional. Tablas de verdad.
+    a. Consecuencia lógica y consistencia.
+    a. Demostraciones. Tautologías y contradicciones.
+    a. Teoremas de corrección y completitud.
+1. Lógica de Predicados.
+    a. Lenguaje de la Lógica de Predicados. Cuantificadores universal y existencial.
+    a. Semántica de la Lógica de Predicados.
+    a. Consecuencia lógica y consistencia.
+    a. Demostraciones.
+    a. Teoremas de corrección y completitud.
+2.  Lógicas Multivaluadas.
+    a. Lógica trivaluada. Lógicas de Kleene y Lukasiewicz.
+    a. Lógicas difusas.
+
+## Aplicaciones
+
+- Teoría de conjuntos.
+- Álgebra de Boole.
+- Circuitos lógicos.
+- Programación lógica.
+- Inteligencia artificial.
+- Demostración automática.
+
+## Bibliografía
+
+
+

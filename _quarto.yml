@@ -1,0 +1,17 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Grado en Ingeniería Matemática"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Inicio
+
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    toc: true

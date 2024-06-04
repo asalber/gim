@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Grado de Ingeniería Matemática",
+    "section": "",
+    "text": "Denominación: Gado en Ingeniería Matemática\nMenciones:\nCentros donde se imparte: Escuela Politécnica Superior\nTipo de enseñanza: Presencial\nRama de conocimiento: Ingeniería y Arquitectura\nOrientación: Profesional\nTipo de titulación: Oficial\nNúmero de ECTs del título: 240\nNúmero de horas presenciales: 10 horas por ECTS\nIdioma: Castellano\nDirector: Alfredo Sánchez Alberca (asalber@ceu.es)"
+  },
+  {
+    "objectID": "index.html#documentos-de-la-memoria-de-verificación",
+    "href": "index.html#documentos-de-la-memoria-de-verificación",
+    "title": "Grado de Ingeniería Matemática",
+    "section": "Documentos de la memoria de verificación",
+    "text": "Documentos de la memoria de verificación\n\nPropuesta de memoria de verifiación aprobada\nCriterio 2. Justifiación del título\nCriterio 4.1. Sistemas de información previos\nCriterio 4.2. Acceso y admisión\nCriterio 4.3. Apoyo y orientación a estudiantes matriculados\nCriterio 4.4. Reconocimiento y transferencia de créditos\nCriterio 5. Plan de estudios\nCriterio 6.1. Personal académico\nCriterio 6.2. Otro personal académico\nCriterio 7. Recursos materiales\nCriterio 8.1. Resultados previstos: Indicadores\nCriterio 8.2. Procedimiento para valorar progreso y resultados de aprendizaje\nCriterio 10. Calendario de implantación"
+  },
+  {
+    "objectID": "index.html#asignaturas",
+    "href": "index.html#asignaturas",
+    "title": "Grado de Ingeniería Matemática",
+    "section": "Asignaturas",
+    "text": "Asignaturas\n\nPrimero\n\n\nSegundo\n\n\nTercero\n\nLógica Formal"
+  },
+  {
+    "objectID": "asignaturas/logica-formal/index.html",
+    "href": "asignaturas/logica-formal/index.html",
+    "title": "Lógica Formal",
+    "section": "",
+    "text": "Introducción a la lógica.\n\nRazonamiento: Observación e inferencia.\nTipos y usos de inferencias.\nOrígenes de la Lógica.\n\nLógica Proposicional.\n\nValidez.\nLenguaje de la Lógica Proposicional.\nSemántica de la Lógica Proposicional. Tablas de verdad.\nConsecuencia lógica y consistencia.\nDemostraciones. Tautologías y contradicciones.\nTeoremas de corrección y completitud.\n\nLógica de Predicados.\n\nLenguaje de la Lógica de Predicados. Cuantificadores universal y existencial.\nSemántica de la Lógica de Predicados.\nConsecuencia lógica y consistencia.\nDemostraciones.\nTeoremas de corrección y completitud.\n\nLógicas Multivaluadas.\n\nLógica trivaluada. Lógicas de Kleene y Lukasiewicz.\nLógicas difusas."
+  },
+  {
+    "objectID": "asignaturas/logica-formal/index.html#contenidos",
+    "href": "asignaturas/logica-formal/index.html#contenidos",
+    "title": "Lógica Formal",
+    "section": "",
+    "text": "Introducción a la lógica.\n\nRazonamiento: Observación e inferencia.\nTipos y usos de inferencias.\nOrígenes de la Lógica.\n\nLógica Proposicional.\n\nValidez.\nLenguaje de la Lógica Proposicional.\nSemántica de la Lógica Proposicional. Tablas de verdad.\nConsecuencia lógica y consistencia.\nDemostraciones. Tautologías y contradicciones.\nTeoremas de corrección y completitud.\n\nLógica de Predicados.\n\nLenguaje de la Lógica de Predicados. Cuantificadores universal y existencial.\nSemántica de la Lógica de Predicados.\nConsecuencia lógica y consistencia.\nDemostraciones.\nTeoremas de corrección y completitud.\n\nLógicas Multivaluadas.\n\nLógica trivaluada. Lógicas de Kleene y Lukasiewicz.\nLógicas difusas."
+  },
+  {
+    "objectID": "asignaturas/logica-formal/index.html#aplicaciones",
+    "href": "asignaturas/logica-formal/index.html#aplicaciones",
+    "title": "Lógica Formal",
+    "section": "Aplicaciones",
+    "text": "Aplicaciones\n\nTeoría de conjuntos.\nÁlgebra de Boole.\nCircuitos lógicos.\nProgramación lógica.\nInteligencia artificial.\nDemostración automática."
+  }
+]
